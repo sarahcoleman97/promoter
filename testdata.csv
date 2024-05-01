@@ -1,0 +1,6 @@
+﻿testdata,SMC1,SMC2,SMC3,SMC4,SMC5
+feature1,0,0,0,1,1
+feature2,0,0,1,1,1
+feature3,1,0,1,1,1
+feature4,1,0,0,0,1
+feature5,1,1,1,1,1
